@@ -41,3 +41,7 @@ The dashboard should provide an at-a-glance view of:
 - Outstanding invoices
 - Recent activity
 - Quick actions
+
+## Dashboard Wireframe
+
+![Dashboard Wireframe](dashboard-wireframe.png)
