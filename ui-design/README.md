@@ -42,4 +42,4 @@ Persistent sidebar navigation provides quick access to Projects, Tasks, Clients,
 
 ## Final Dashboard UI
 
-![Nexora Dashboard UI](dashboard-ui.png)
+![Nexora Dashboard UI](dashboard-ui.png.jpg)
