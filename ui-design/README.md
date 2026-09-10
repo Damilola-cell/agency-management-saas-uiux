@@ -43,3 +43,21 @@ Persistent sidebar navigation provides quick access to Projects, Tasks, Clients,
 ## Final Dashboard UI
 
 ![Nexora Dashboard UI](dashboard-ui.png.jpg)
+
+## Projects Page
+
+The Projects page provides a centralized view of agency projects, allowing users to quickly monitor project status, progress, deadlines, assigned teams, and clients.
+
+### Key Features
+
+- Project status overview
+- Search and filtering
+- Client and team filtering
+- Project progress tracking
+- Deadline visibility
+- Completed, in-progress, on-hold and overdue states
+- Quick project actions
+
+### Final Projects UI
+
+![Nexora Projects UI](projects-ui.jpg)
