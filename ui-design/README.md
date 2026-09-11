@@ -61,3 +61,23 @@ The Projects page provides a centralized view of agency projects, allowing users
 ### Final Projects UI
 
 ![Nexora Projects UI](projects-ui.jpg)
+
+## Project Details Page
+
+The Project Details page gives agency teams a complete view of an individual project, bringing together project progress, tasks, milestones, team members, files, deadlines, and billing information in one workspace.
+
+### Key Features
+
+- Project progress tracking
+- Project status and deadline visibility
+- Team member management
+- Task management and task statuses
+- Project milestones
+- Budget and billing summary
+- Project files and uploads
+- Recent project activity
+- Quick project editing
+
+### Final Project Details UI
+
+![Nexora Project Details UI](project-details-ui.jpg)
